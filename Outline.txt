@@ -1,0 +1,5 @@
+This file contains what the app can perform
+
+1) Show Menu
+2) Take orders
+3) Prepare Bill
